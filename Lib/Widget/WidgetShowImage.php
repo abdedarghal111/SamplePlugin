@@ -1,7 +1,7 @@
 <?php
 namespace FacturaScripts\Plugins\SamplePlugin\Lib\Widget;
 
-use FacturaScripts\Core\Base\MyFilesToken;
+use FacturaScripts\Core\Lib\MyFilesToken;
 use FacturaScripts\Core\Lib\Widget\BaseWidget;
 use FacturaScripts\Core\Tools;
 use FacturaScripts\Dinamic\Model\AttachedFile;
